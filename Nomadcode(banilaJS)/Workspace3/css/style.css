@@ -1,0 +1,50 @@
+body {
+  background-size: cover;
+  text-align: center;
+  color: white;
+}
+
+header {
+  padding: 50px;
+  height: 50px;
+}
+#weather > span {
+  font-size: 30;
+}
+h1 {
+  color: white;
+}
+.clicked {
+  color: tomato;
+  transition: color 0.5s ease-in-out;
+}
+
+.sexy-font {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.hidden {
+  display: none;
+}
+
+ul {
+  list-style: none;
+  float: left;
+}
+ul > li {
+  font-size: 30;
+}
+
+#clock {
+  font-size: 70pt;
+  height: 40px;
+  padding: 20px;
+}
+
+input {
+  border: 0;
+  font-size: 13pt;
+}
+#login-form {
+  padding: 30px;
+}
